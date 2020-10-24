@@ -25,7 +25,7 @@ expat-2.2.9-r1
 ffmpeg-4.3.1-r0
 ffmpeg-libs-4.3.1-r0
 fontconfig-2.13.1-r2
-freetype-2.10.2-r0
+freetype-2.10.4-r0
 fribidi-1.0.9-r0
 gdk-pixbuf-2.40.0-r2
 ghostscript-9.52-r0
@@ -154,7 +154,7 @@ php7-pdo_mysql-7.3.23-r0
 php7-pdo_pgsql-7.3.23-r0
 php7-pdo_sqlite-7.3.23-r0
 php7-pecl-apcu-5.1.19-r0
-php7-pecl-igbinary-3.1.4-r0
+php7-pecl-igbinary-3.1.6-r0
 php7-pecl-imagick-3.4.4-r3
 php7-pecl-mcrypt-1.0.3-r0
 php7-pecl-memcached-3.1.5-r0
